@@ -1,2 +1,4 @@
-# matrix-mult-py-34
+# Matrix Mult Py 34
+
 Compute multiplication of two matrices in Python.
+
